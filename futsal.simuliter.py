@@ -1,5 +1,5 @@
-print("Welcome! You will enjoy following the program.")
-
+print("Welcome! You will enjoy")
+print("following the program.")
 choice = input("Do you want to start? (yes/no): ").lower()
 
 if choice == "no":
