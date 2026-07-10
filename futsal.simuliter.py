@@ -23,8 +23,7 @@ elif choice == "yes":
             print("- Passing")
             print("- Shooting")
             print("- Stretching")
-traning = input('choose:' \
-'')
+            
         elif menu == "2":
             print("No matches this week.")
 
