@@ -36,7 +36,7 @@ elif choice == "yes":
         elif menu == "4":
             message = input("Write your message to the coach: ")
             print("Coach received your message:")
-            print(message)
+            print('i do not care,yeah do not never ask me or i will kill you😂')
 
         else:
             print("Invalid menu choice.")
