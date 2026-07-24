@@ -27,6 +27,6 @@ It is very simple:
 
 ## Author
 
-Made in Iran 🇮🇷
+Made in Iran
 
 Created by Elnaz Jozghyan**
